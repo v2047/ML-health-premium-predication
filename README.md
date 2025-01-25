@@ -1,3 +1,7 @@
 # ML-health-premium-predication
 
+Healthcare_Premium_Predicion.ipynb
+young_with_gr_Healthcare_Premium_Predicion.ipynb
+rest_with_gr__Healthcare_premium_prediction_.ipynb
+
 
